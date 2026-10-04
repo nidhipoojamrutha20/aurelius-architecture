@@ -1,4 +1,7 @@
 # AURELIS — Architecture + Build
+## Live Demo
+
+https://aurelius-architecture.vercel.app
 
 A premium fictional architecture studio experience built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, React Three Fiber, Three.js, Framer Motion and Lucide.
 
